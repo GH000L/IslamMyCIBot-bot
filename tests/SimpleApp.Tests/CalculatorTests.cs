@@ -1,4 +1,5 @@
 using Xunit;
+using SimpleApp;
 
 public class CalculatorTests
 {
