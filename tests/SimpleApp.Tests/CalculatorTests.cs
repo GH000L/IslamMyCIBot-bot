@@ -1,5 +1,6 @@
-using Xunit;
 using SimpleApp;
+using Xunit;
+using SimpleApp; // Добавьте эту строку
 
 public class CalculatorTests
 {
